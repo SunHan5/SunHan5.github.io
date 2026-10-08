@@ -11,8 +11,8 @@ locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "主页"
 title_separator          : "-"
-name                     : &name "孙晗"
-description              : &description "孙晗，男，博士，讲师，硕士生导师。研究方向是生物信息学、生物统计学、公共数据库挖掘，主要从事微生物组学的统计和机器学习方法开发，代表性成果发表在 Information Fusion、Briefings in Bioinformatics、Expert Systems With Applications 等学术期刊上。受邀担任 IEEE BIBM 程序委员会委员、河南省应用统计学会理事以及 Microbiome、Tsinghua Science and Technology、BioData Mining、BMC Microbiology 等学术期刊审稿人。"   # Update this with a general description of your site, this is the default if not overridden by a page
+name                     : &name "Han Sun (孙晗)"
+description              : &description "孙晗，男，博士，讲师，硕士生导师。研究方向是生物信息学、生物统计学、公共数据库挖掘。"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://sunhan5.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
