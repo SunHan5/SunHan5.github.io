@@ -7,10 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-# 孙晗个人主页
-
----
-
 ## 一、个人简介
 
 * <span style="color:red;">**河南农业大学讲师，硕士生导师**。</span>
