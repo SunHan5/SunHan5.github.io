@@ -8,10 +8,10 @@ redirect_from:
 ---
 
 ## 一、个人简介
-* 河南农业大学人工智能学院信息与计算科学系讲师，硕士生导师。
-* 研究方向是生物信息学、生物统计学、公共数据库挖掘，主要从事微生物组学的统计和机器学习等方法开发。
-* 代表性成果发表在Information Fusion、Briefings in Bioinformatics、Expert Systems With Applications等学术期刊上。
-* 受邀担任IEEE BIBM程序委员会委员、河南省应用统计学会理事以及 Microbiome、Tsinghua Science and Technology、BioData Mining、BMC Microbiology 等学术期刊审稿人。
+* **河南农业大学人工智能学院信息与计算科学系讲师，硕士生导师**。
+* 研究方向是**生物信息学、生物统计学、公共数据库挖掘**，主要从事**微生物组学的统计和机器学习**等方法开发。
+* 代表性成果发表在**Information Fusion**、**Briefings in Bioinformatics**、**Expert Systems With Applications**等学术期刊上。
+* 受邀担任IEEE BIBM程序委员会委员、河南省应用统计学会理事以及Microbiome、Tsinghua Science and Technology、BioData Mining、BMC Microbiology等学术期刊审稿人。
 
 ## 二、研究方向
 
