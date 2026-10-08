@@ -10,8 +10,7 @@ redirect_from:
 ## 一、个人简介
 
 * <span style="color:red;">**河南农业大学讲师，硕士生导师**。</span>
-* 长期从事生物信息学、生物统计学、公共数据库挖掘研究。
-* 主要从事微生物组学的统计和机器学习方法开发，代表性成果发表在 *Information Fusion*、*Briefings in Bioinformatics*、*Expert Systems With Applications* 等学术期刊上。
+* 长期从事生物信息学、生物统计学、公共数据库挖掘研究，主要涉及微生物组学的统计和机器学习方法开发，代表性成果发表在 *Information Fusion*、*Briefings in Bioinformatics*、*Expert Systems With Applications* 等学术期刊上。
 
 ## 二、研究方向
 
