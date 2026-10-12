@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "孙晗个人主页"
+title: "孙晗学术主页"
 author_profile: true
 redirect_from: 
   - /about/
